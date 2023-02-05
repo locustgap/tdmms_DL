@@ -1,7 +1,7 @@
 """
 The build/compilations setup
 
->> pip install -r requirements.txt
+>> pip install -r requirements.txt (ignore this, missing requirements.txt)
 >> python setup.py install
 """
 import pip
